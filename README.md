@@ -6,7 +6,7 @@ This project was developed for the practice of HTML Fundamentals, CSS and Respon
 https://innovationcloudproject.netlify.app
 
 ## Gif demonstration
-![Web 1](https://github.com/celiceceron/innovationCloudProject/blob/46833d9d703e4bc6c8acd6043e761b5156b82081/web%20page.gif)
+![Web 1](https://github.com/celiceceron/innovationCloudProject/blob/2517d10ad9eb637d1fb2f29c1e363b1b19e58b07/web%20page.gif)
 
 # Used languages
 ## Front end
